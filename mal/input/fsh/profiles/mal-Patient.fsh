@@ -8,5 +8,5 @@ Description: "Informasjon om pasienten, basert på no-basis."
 * ^publisher = "HL7 Norge"
 
 * identifier 1..1
-* name.family MS
+* name.family 1..1
 
